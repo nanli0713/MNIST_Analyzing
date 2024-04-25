@@ -20,7 +20,8 @@ MNIST Dataset Training and Evaluation
 |————data // Stores all the vector data of handwritten digits
     |————digits4000_digits_labels.txt // Labels of 4000 handwritten digits
     └————digits4000_digits_vec.txt // Vectors of 4000 handwritten digits
-|————results // running results
+|————results // results which had been trained and saved in csv files
+|————models // models which had been trained( deep learning model so big can not be upload)
 └————project.ipynb // Contains all the execution results and code
 ```
 
