@@ -8,6 +8,7 @@ The data comes from handwritten digit recognition images. After processing, thes
 Each original image is a grayscale image of size 28x28.
 After flattening, it is converted into a vector of size 1x784.
 There are a total of 4000 such images, so the training and testing data consist of these 4000 rows of vectors, which are stored in the file "digits4000_digits_vec.txt". The label of each image, indicating the class it belongs to, is stored in the file "digits4000_digits_labels.txt".
+This file is too long that you can not see the bonus part, if you really want to see, then you need to download.
 ```
 
 # Project structure：
