@@ -18,8 +18,9 @@ MNIST Dataset Training and Evaluation
 |————README.md // Chinese documentation
 |————README.en.md // English documentation
 |————data // Stores all the vector data of handwritten digits
-|————digits4000_digits_labels.txt // Labels of 4000 handwritten digits
-| └————digits4000_digits_vec.txt // Vectors of 4000 handwritten digits
+    |————digits4000_digits_labels.txt // Labels of 4000 handwritten digits
+    └————digits4000_digits_vec.txt // Vectors of 4000 handwritten digits
+|————results // running results
 └————project.ipynb // Contains all the execution results and code
 ```
 
